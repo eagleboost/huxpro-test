@@ -1,3 +1,14 @@
+---
+layout: post
+title: "Tab Control Content Preservation"
+subtitle: 'Using Vim with non-english input method'
+author: "Hux"
+header-style: text
+tags:
+  - WPF
+  - TabControl
+---
+
 # Tab Control Content Preservation
 
 ## The problem
