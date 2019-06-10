@@ -3,7 +3,8 @@ layout: post
 title: "Tab Control Content Preservation"
 subtitle: 'Using Vim with non-english input method'
 author: "Hux"
-header-style: text
+header-img: "img/post-bg-digital-native.jpg"
+catalog: true
 tags:
   - WPF
   - TabControl
